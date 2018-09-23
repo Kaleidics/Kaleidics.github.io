@@ -15,8 +15,14 @@ body{
 	color: white;
 }
 
-img#fixthis{
-	height: 437.5px;
-	width: 390px;
-
+#fixthis{
+	height: auto;
+	width: auto;
+	max-height: 233.09px;
+	max-width: 350px;
+}
+#fixthis2{
+	height:437.5px;
+	width: 467.5px;
+	
 }
