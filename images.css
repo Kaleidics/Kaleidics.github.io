@@ -14,3 +14,9 @@ body{
 .navbar-inverse .navbar-brand{
 	color: white;
 }
+
+img#fixthis{
+	height: 437.5px;
+	width: 390px;
+
+}
