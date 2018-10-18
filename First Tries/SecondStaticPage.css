@@ -1,0 +1,56 @@
+body{
+	background: url(mclaren_570gt_sports_car_supercar_123049_3840x2400.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	font-family: Lato;
+	color: #34363a;
+}
+nav.navbar.navbar-default{
+	background: #34363a;
+	border: #34363a;
+}
+
+
+.navbar-default.navbar .navbar-nav>li>a:hover {
+  color: rgb(195,179,153);
+}
+.navbar-default.navbar .navbar-header>a:hover {
+  color: rgb(195,179,153);
+}
+html{
+	height: 100%;
+}
+h1{
+	font-weight: 700;
+	font-size: 5em;
+}
+span, input{
+	margin: 8px;
+
+}
+button.btn.btn-default.btn-lg{
+	background-color: Transparent;
+    background-repeat:no-repeat;
+    border-top: 0.50px solid grey;
+	border-bottom: 0.50px solid rgba(0,0,0,0.2);
+	border-right: hidden;
+	border-left: hidden;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+
+}
+#content{
+	text-align:center;
+	padding-top: 8.75%;
+	text-shadow: 0px 3px 100px rgb(195,179,153),
+				 0px 4px 10px rgb(135,135,135);
+				
+}
+
+hr{
+	width: 400px;
+	border-top: 0.5px solid grey;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
